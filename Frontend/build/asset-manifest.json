@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d874bfe.css",
+    "main.js": "/static/js/main.8d1925e4.js",
+    "static/js/206.a9786cce.chunk.js": "/static/js/206.a9786cce.chunk.js",
+    "static/media/loginbg.jpg": "/static/media/loginbg.e2e019d3b4b6c2cc55a7.jpg",
+    "static/media/handup.png": "/static/media/handup.2fd54032a5d286024bdd.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9d874bfe.css",
+    "static/js/main.8d1925e4.js"
+  ]
+}
